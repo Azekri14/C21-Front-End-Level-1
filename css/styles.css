@@ -14,11 +14,17 @@ p{
 }
 
 .mijnAfbeelding{
-    width: 1000px;
-    height: 500;
+    width: 700px;
+    height: 500px;
     margin: 0px 0px 0px 50px;
 }   
 
 button{
     margin: 0px 0px 0px 10px;
+}
+
+.dampaleis{
+     margin: 0px 0px 0px 50px;
+     width: 700px;
+     height: 500px;
 }
